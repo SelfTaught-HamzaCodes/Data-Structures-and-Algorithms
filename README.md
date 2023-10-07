@@ -38,6 +38,8 @@ A repository that holds implementation for most of the *commonly* used **Data St
 ### Notes
 I acknowledge that these implementations are primarily the result of my work, and any instances of borrowed code are duly credited to the original authors. While I have strived to optimize efficiency throughout, I humbly acknowledge that errors may exist. Please be attentive to the following symbol ⚠, which signifies areas where I have sought enhancements and improvements.
 
+- In addition to my Python implementations, I have also worked on data structures in the **⚠ C language ⚠** during my participation in the CS50X course, specifically in Week 3 and 5. 
+
 #### Useful Resources
 - **Cheat Sheet**: https://www.bigocheatsheet.com/
 ***
